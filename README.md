@@ -1,6 +1,6 @@
 # ShopNova : lab IA volontairement vulnérable 
 
-> ⚠️ Lab pédagogique vulnérable.
+>  Lab pédagogique vulnérable.
 
 
 ## Installation (Windows, PowerShell)
